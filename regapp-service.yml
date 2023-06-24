@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: valaxy-service
+  name: saavi21-service
   labels:
     app: regapp 
 spec:
